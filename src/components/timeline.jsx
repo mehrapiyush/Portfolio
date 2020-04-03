@@ -8,7 +8,7 @@ export default class Timeline extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                {/* <span className="heading-meta"></span> */}
+                 <span className="heading-meta"></span> 
                 <h2 className="colorlib-heading animate-box">Internships</h2>
               </div>
             </div>
@@ -44,10 +44,11 @@ export default class Timeline extends Component {
                       <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
                       </div>
-                      {/* <div className="timeline-label">
-                        <h2>Primary and Higher Education <span> 2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 94.20 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
-                      </div> */}
+                       <div className="timeline-label">
+                        <h2>Front End Developer Intern - Diverse Infotech Pvt Ltd. <span> Dec 2018 - Jan 2019</span></h2>
+                        <p>Developed CRUD(create , read , update , delete) Apps in Angular 4.0
+                        and used firebase to demonstrate working of app..</p> 
+                      </div> 
                     </div>
                   </article>
                   <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">

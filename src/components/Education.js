@@ -8,7 +8,7 @@ export default class Education extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                {/* <span className="heading-meta"></span> */}
+                 <span className="heading-meta"></span> 
                 <h2 className="colorlib-heading animate-box">Education</h2>
               </div>
             </div>
@@ -39,7 +39,7 @@ export default class Education extends Component {
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-4">
+                      <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
