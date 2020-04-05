@@ -8,6 +8,6 @@ This is the implementaion code for the blog I have written '[How to create your 
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
     
-##### deployed app : https://dbarochiya.github.io/me/
+##### deployed app : https://whispering-headland-55019.herokuapp.com/
 # Portfolio
 # Portfolio
