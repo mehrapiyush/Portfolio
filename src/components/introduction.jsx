@@ -15,14 +15,28 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi! <br />I'm Piyush</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/0BxD03Fre8KavTWNLWUpfY0JtcWNFbnVuemlUOGpQSFdydll3/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1xj2JWSF-A6kzvnZbRhybdb_MZPReqI-P/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/Salesforce.webp)'}}>
+                <div className="overlay" />
+                <div className="container-fluid">
+                  <div className="row">
+                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                      <div className="slider-text-inner">
+                        <div className="desc">
+                          <h1>Member of Technical Staff<br /> at Salesforce, <br/> Hyderabad </h1>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li style={{backgroundImage: 'url(images/techie.avif)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -31,20 +45,6 @@ export default class Introduction extends Component {
                         <div className="desc">
                           <h1>I love building<br /> THINGS !!</h1>
                           <p><a className="btn btn-primary btn-learn" href="https://github.com/mehrapiyush" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </li>
-              <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
-                <div className="overlay" />
-                <div className="container-fluid">
-                  <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
-                      <div className="slider-text-inner">
-                        <div className="desc">
-                          <h1>Incoming SDE <br /> at Samsung Noida  </h1>
                         </div>
                       </div>
                     </div>
