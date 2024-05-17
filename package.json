@@ -26,5 +26,14 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "git-scripts": "^0.6.4",
+    "surge": "^0.23.1"
+  },
+  "git": {
+    "scripts": {
+      "pre-push": "surge --project ./ --domain pmehra.surge.sh"
+    }
+  }
 }
