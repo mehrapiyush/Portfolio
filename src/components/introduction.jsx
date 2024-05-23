@@ -26,10 +26,10 @@ export default class Introduction extends Component {
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                    <div className="col-md-8 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{color:"Black"}}>SDE-II<br /> at Salesforce.com, <br/> Hyderabad </h1>
+                          <h1 style={{color:"Black"}}>Software <br/> Engineer - II</h1>
                         </div>
                       </div>
                     </div>
